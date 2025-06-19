@@ -38,7 +38,7 @@ LIMIT 10;
 ## 📂 GitHub Repository & Files  
 - 📊 **Power BI Dashboard:** [Road Accident Dashboard.pbit](https://github.com/Gyanankur23/Road-Accident-Analysis-Dashboard/blob/main/Road%20Accident%20Dashboard.pbit)  
 - 💾 **SQL Queries File:** [road_accident_analysis.sql](https://github.com/Gyanankur23/Road-Accident-Analysis-Dashboard/blob/main/road_accident_analysis.sql)  
-- 📄 **Project Summary Report:** [Road Accident Analysis.pdf](https://github.com/Gyanankur23/Road-Accident-Analysis-Dashboard/blob/main/Road%20Accident%20Analysis.pdf)  
+- 📄 **Project Summary Report:** [Road Accident analysis.pdf](https://github.com/Gyanankur23/Road-Accident-Analysis-Dashboard/blob/main/Road%20Accident%20analysis.pdf)  
 
 ## 🔗 GitHub Clone Link  
 ```bash
